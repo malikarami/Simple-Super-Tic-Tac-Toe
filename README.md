@@ -1,4 +1,4 @@
-# Simple-Super-Tic-Toc-Toe
+# Simple-Super-Tic-Tac-Toe
 A simple super-tic-toc-toe game implemented with Java
 and the Graphics with Java Swing
 
