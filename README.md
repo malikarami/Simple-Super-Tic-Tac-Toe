@@ -7,4 +7,5 @@ Java implementation of a simple super-tic-toc-toe game+ Graphics with Java Swing
 3. play the game with desired option
 
 # View
-https://user-images.githubusercontent.com/51096677/121274392-a36ca280-c8df-11eb-985a-465261cb1d94.jpg
+![ALT](/https://user-images.githubusercontent.com/51096677/121274392-a36ca280-c8df-11eb-985a-465261cb1d94.jpg)
+
