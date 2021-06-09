@@ -1,5 +1,6 @@
 # Simple-Super-Tic-Toc-Toe
-Java implementation of a simple super-tic-toc-toe game+ Graphics with Java Swing
+A simple super-tic-toc-toe game implemented with Java
+and its Graphics with Java Swing
 
 # Features
 1. create and login as different users
